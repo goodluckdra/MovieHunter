@@ -10,7 +10,7 @@ The layout is designed by [here](http://chocotemplates.com).
 
 ## BackEnd
 
-Use PHP as backend language, MAMP to deal with environment, and MySQL as database.
+Use PHP as backend language, MAMP to set up environment, and MySQL as database.
  
 ## Demo
 
